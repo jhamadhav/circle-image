@@ -23,7 +23,7 @@ function init() {
 
     // get and draw image
     img = new Image();
-    img.src = "./images/nature.jpg";
+    img.src = "./images/cat.jpg";
     img.onload = () => {
 
         // figure out ratio
